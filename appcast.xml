@@ -6,6 +6,16 @@
     <description>Updates for Consort</description>
     <language>en</language>
     <item>
+      <title>Consort 0.7.1</title>
+      <pubDate>Tue, 03 Nov 2026 12:03:58 +0000</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.7.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://bishop0261.github.io/consort-releases/notes/0.7.1.en.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="es">https://bishop0261.github.io/consort-releases/notes/0.7.1.es.html</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/Bishop0261/consort-releases/releases/download/v0.7.1/Consort-0.7.1.dmg" sparkle:edSignature="+wVnxDEE0XB50hB2CFgZO5g0t9PNbg5Zqn2A2X0GPq0NF+u9O+1RwI9qbsstD5cLsyfpJve6kQp6VVQyZkBhCg==" length="8646182" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Consort 0.7.0</title>
       <pubDate>Tue, 03 Nov 2026 11:41:26 +0000</pubDate>
       <sparkle:version>7</sparkle:version>
