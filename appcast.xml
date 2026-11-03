@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Consort</title>
+    <link>https://bishop0261.github.io/consort-releases/appcast.xml</link>
+    <description>Updates for Consort</description>
+    <language>en</language>
+    <item>
+      <title>Consort 0.7.0</title>
+      <pubDate>Tue, 03 Nov 2026 11:41:26 +0000</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://bishop0261.github.io/consort-releases/notes/0.7.0.en.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="es">https://bishop0261.github.io/consort-releases/notes/0.7.0.es.html</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/Bishop0261/consort-releases/releases/download/v0.7.0/Consort-0.7.0.dmg" sparkle:edSignature="rlhRk3l2NLUbzj45Kx+Y/GqzF/uXLA7lQbNEaUPdt9ROScVG8CieddPhH3bT0YIRihyjLFkX6C2JXr9yzWTRBg==" length="8646017" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
